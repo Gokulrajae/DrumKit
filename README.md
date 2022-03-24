@@ -10,7 +10,6 @@
   This is an example of how switch case works in javascript using a very exciting game like project which plays drums sound when specific key is pressed or clicked
   
  # Installation
-  Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
   
   1. clone the repo:
   git clone https://github.com/your_username_/Project-Name.git
