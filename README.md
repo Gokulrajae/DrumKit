@@ -15,7 +15,7 @@
   1. clone the repo:
   git clone https://github.com/your_username_/Project-Name.git
   
- 2.Install npm packages:
+  2.Install npm packages:
   npm install
   
  # Contributing
